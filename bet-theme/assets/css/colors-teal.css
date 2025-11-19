@@ -1,0 +1,17 @@
+/* ============================================
+   ZEX CMS - Bet Theme - Teal Color Scheme
+   Version: 1.0.0
+   Color: Teal
+   ============================================ */
+
+:root {
+    --primary: #0D9488;
+    --primary-dark: #0F766E;
+    --primary-light: #14B8A6;
+    --secondary: #1E3A8A;
+    --secondary-dark: #1E40AF;
+    --accent: #F59E0B;
+    --accent-hover: #D97706;
+    --primary-rgb: 13, 148, 136; /* For rgba calculations */
+}
+

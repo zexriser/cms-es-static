@@ -1,0 +1,18 @@
+/* ============================================
+   ZEX CMS - Bet Theme - Blue Color Scheme
+   Version: 1.0.0
+   Color: Blue (Default)
+   ============================================ */
+
+:root {
+    /* Primary Color Scheme - Profesyonel Mavi */
+    --primary: #1E3A8A;
+    --primary-dark: #1E40AF;
+    --primary-light: #3B82F6;
+    --secondary: #10B981;
+    --secondary-dark: #059669;
+    --accent: #F59E0B;
+    --accent-hover: #D97706;
+    --primary-rgb: 30, 58, 138; /* For rgba calculations */
+}
+

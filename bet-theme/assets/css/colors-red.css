@@ -1,0 +1,17 @@
+/* ============================================
+   ZEX CMS - Bet Theme - Red Color Scheme
+   Version: 1.0.0
+   Color: Red
+   ============================================ */
+
+:root {
+    --primary: #DC2626;
+    --primary-dark: #B91C1C;
+    --primary-light: #EF4444;
+    --secondary: #10B981;
+    --secondary-dark: #059669;
+    --accent: #F59E0B;
+    --accent-hover: #D97706;
+    --primary-rgb: 220, 38, 38; /* For rgba calculations */
+}
+

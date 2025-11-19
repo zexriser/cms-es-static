@@ -1,0 +1,17 @@
+/* ============================================
+   ZEX CMS - Bet Theme - Indigo Color Scheme
+   Version: 1.0.0
+   Color: Indigo
+   ============================================ */
+
+:root {
+    --primary: #4F46E5;
+    --primary-dark: #4338CA;
+    --primary-light: #6366F1;
+    --secondary: #10B981;
+    --secondary-dark: #059669;
+    --accent: #F59E0B;
+    --accent-hover: #D97706;
+    --primary-rgb: 79, 70, 229; /* For rgba calculations */
+}
+
